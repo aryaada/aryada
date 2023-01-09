@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aryada/static/css/main.8dd09fdd.css",
+    "main.js": "/aryada/static/js/main.9ca97291.js",
+    "static/media/dots-bg.svg": "/aryada/static/media/dots-bg.5a4e6cdc76121fb947ee.svg",
+    "static/media/logo.svg": "/aryada/static/media/logo.44275f28e4b86afc56e25df27e45c8bf.svg",
+    "static/media/foto.svg": "/aryada/static/media/foto.323ec3369bd113777fd9d7aa0df243d0.svg",
+    "index.html": "/aryada/index.html",
+    "main.8dd09fdd.css.map": "/aryada/static/css/main.8dd09fdd.css.map",
+    "main.9ca97291.js.map": "/aryada/static/js/main.9ca97291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd09fdd.css",
+    "static/js/main.9ca97291.js"
+  ]
+}
