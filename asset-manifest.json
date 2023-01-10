@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aryada/static/css/main.70b56a77.css",
-    "main.js": "/aryada/static/js/main.f5246da1.js",
+    "main.css": "/aryada/static/css/main.c8ee6fc6.css",
+    "main.js": "/aryada/static/js/main.50347d2a.js",
     "static/media/dots-bg.svg": "/aryada/static/media/dots-bg.5a4e6cdc76121fb947ee.svg",
     "static/media/CV.pdf": "/aryada/static/media/CV.ea74349ddb44ad7a3093.pdf",
     "static/media/logo.svg": "/aryada/static/media/logo.44275f28e4b86afc56e25df27e45c8bf.svg",
@@ -13,7 +13,7 @@
     "index.html": "/aryada/index.html"
   },
   "entrypoints": [
-    "static/css/main.70b56a77.css",
-    "static/js/main.f5246da1.js"
+    "static/css/main.c8ee6fc6.css",
+    "static/js/main.50347d2a.js"
   ]
 }
