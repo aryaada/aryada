@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aryada/static/css/main.d4a7be1d.css",
-    "main.js": "/aryada/static/js/main.3c522769.js",
+    "main.css": "/aryada/static/css/main.ae803539.css",
+    "main.js": "/aryada/static/js/main.4ba6f572.js",
     "static/media/dots-bg.svg": "/aryada/static/media/dots-bg.5a4e6cdc76121fb947ee.svg",
     "static/media/CV.pdf": "/aryada/static/media/CV.ea74349ddb44ad7a3093.pdf",
     "static/media/logo.svg": "/aryada/static/media/logo.44275f28e4b86afc56e25df27e45c8bf.svg",
@@ -10,11 +10,11 @@
     "static/media/web-dev.svg": "/aryada/static/media/web-dev.7843afefedb9af102d84cba5c73b8a9e.svg",
     "static/media/repair.svg": "/aryada/static/media/repair.bedd483d3ddb44d5d52e8be86a8216ec.svg",
     "index.html": "/aryada/index.html",
-    "main.d4a7be1d.css.map": "/aryada/static/css/main.d4a7be1d.css.map",
-    "main.3c522769.js.map": "/aryada/static/js/main.3c522769.js.map"
+    "main.ae803539.css.map": "/aryada/static/css/main.ae803539.css.map",
+    "main.4ba6f572.js.map": "/aryada/static/js/main.4ba6f572.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4a7be1d.css",
-    "static/js/main.3c522769.js"
+    "static/css/main.ae803539.css",
+    "static/js/main.4ba6f572.js"
   ]
 }
