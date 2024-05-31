@@ -477,7 +477,7 @@ module.exports = function (webpackEnv) {
                   ? shouldUseSourceMap
                   : isEnvDevelopment,
                 modules: {
-                  mode: 'icss',
+                  localIdentName: "[hash:base64:9]",
                 },
               }),
               // Don't consider CSS imports dead code even if the

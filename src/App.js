@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import style from './assets/css/all.css';
+import Sidebar from './components/sidebar/Sidebar';
+import Beranda from './components/beranda/Beranda';
+import Tentang from './components/tentang/Tentang';
+import Keahlian from './components/keahlian/Keahlian';
+import Pendidikan from './components/pendidikan/Pendidikan';
+import Portfolio from './components/portfolio/Portfolio';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Sidebar />
+    <main className={style.main}>
+      <Beranda />
+      <Tentang />
+      <Keahlian />
+      <Pendidikan />
+      <Portfolio />
+    </main>
+    </>
   );
 }
 
