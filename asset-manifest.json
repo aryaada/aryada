@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aryada/static/css/main.db4e1efb.css",
-    "main.js": "/aryada/static/js/main.329e61f0.js",
+    "main.js": "/aryada/static/js/main.c59a04d0.js",
     "static/media/CV.pdf": "/aryada/static/media/CV.69ff7bd75c1897c40517.pdf",
     "static/media/dots-bg.svg": "/aryada/static/media/dots-bg.5a4e6cdc76121fb947ee.svg",
     "static/media/mobile.svg": "/aryada/static/media/mobile.bb9c61cf50bb46bc93bd0fa1da93328b.svg",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.db4e1efb.css",
-    "static/js/main.329e61f0.js"
+    "static/js/main.c59a04d0.js"
   ]
 }
